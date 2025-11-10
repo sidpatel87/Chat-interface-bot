@@ -1,5 +1,5 @@
-# Chat-interface-bot
-Mybot. A Simple chatbot added to a HTML website
+# AI Chat-interface-bot
+Mybot. A Simple AI chatbot added to a HTML website
 
 Website link
 http://myweb.usf.edu/~spatel259/mybot.html
